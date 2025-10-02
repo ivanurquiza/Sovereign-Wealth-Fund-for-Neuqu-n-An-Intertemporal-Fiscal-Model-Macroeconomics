@@ -1,7 +1,6 @@
 # 💰📈 Sovereign Wealth Fund for Neuquén  
 
-Project developed for the **Macroeconometrics course (M.A. in Economics, Universidad de San Andrés, 2025)**, taught by *Federico Sturzenegger* and *Javier García-Cicco*.  
-We evaluated how Neuquén could design a sovereign wealth fund to smooth public spending financed by volatile hydrocarbon royalties from *Vaca Muerta*.  
+Project developed for the **Macroeconometrics course (M.A. in Economics, Universidad de San Andrés, 2025)**, taught by *Federico Sturzenegger* and *Javier García-Cicco*. We evaluated how Neuquén could design a sovereign wealth fund to smooth public spending financed by volatile hydrocarbon royalties from *Vaca Muerta*.  
 
 ## Goals
 We study the design of a **sovereign wealth fund** to manage oil & gas royalties through intertemporal fiscal optimization, focusing on consumption smoothing and precautionary savings.  
